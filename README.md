@@ -20,5 +20,4 @@ To run this project locally, you'll need the following:
 - pandas
 - matplotlib
 - seaborn
-- langchain
-- google.generativeai (for Google Generative AI integration)
+- openai
